@@ -1,7 +1,7 @@
 # Data Cleaning & Standardization: Property/Customer Dataset (Excel)
 
 ## 📌 Project Overview
-This project focuses on the "Data Cleaning" phase of the data lifecycle. Using a raw dataset with over 5,000 rows of inconsistent entries, I performed a systematic cleanup to ensure data integrity and structural uniformity for downstream business reporting.
+This project focuses on the "Data Cleaning" phase of the data lifecycle. Using a raw dataset with over 1,000+ rows of inconsistent entries, I performed a systematic cleanup to ensure data integrity and structural uniformity for downstream business reporting.
 
 ## 🛠️ Technical Workflow & Operations
 I implemented a multi-step standardization process to transform the raw data into a "Single Source of Truth":
